@@ -3,7 +3,18 @@ This is an imported repo of the original DashCop project, where I and 4 of my wo
 
 ## Architecture
 Below is the AWS cloud architecture implemented to execute this project. 
+
 ![DashCop Cloud Architecture](https://github.com/user-attachments/assets/46071921-c09a-4dd1-9c8e-c8d178bd0228)
+
+### Unregistered Car Violation Consumer
+To get a bit more specific, this is the architecture of one of our two violation detectors. It was for detecting unregistered cars on the road.
+
+![Unregistered Car Violation Consumer](https://github.com/user-attachments/assets/7899eb7a-6746-4b8d-b0b4-180e1fec2126)
+
+### Yellow Lane Violation Consumer
+The other violation pertained to detecting and capturing cars that were using the yellow lane. Below is the relevant architecture.
+
+![Yellow Lane Violation Consumer](https://github.com/user-attachments/assets/55db0565-e138-456a-a747-748a3507b173)
 
 ## Original README
 Finally, for documentative purposes, I've included the original README from the original repo below. There's probably not much use for it now, but here it is anyways.
