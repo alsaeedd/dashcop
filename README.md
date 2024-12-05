@@ -1,4 +1,13 @@
-# Sample React.js SST app
+# DashCop - A Near Real-Time AI Traffic Monitoring System
+This is an imported repo of the original DashCop project, where I and 4 of my wondeful univesity colleagues worked together in collaboration with the brilliant mentors at AWS Bahrain to develop this solution. By the grace of God Almighty, it won first place at the University of Bahrain Senior Project Fair. 
+
+## Architecture
+Below is the AWS cloud architecture implemented to execute this project. 
+![DashCop Cloud Architecture](https://github.com/user-attachments/assets/46071921-c09a-4dd1-9c8e-c8d178bd0228)
+
+## Original README
+Finally, for documentative purposes, I've included the original README from the original repo below. There's probably not much use for it now, but here it is anyways.
+#### Sample React.js SST app
 
 An example full-stack serverless React.js app created with SST.
 
