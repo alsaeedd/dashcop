@@ -1,4 +1,4 @@
-# DashCop - A Near Real-Time AI Traffic Monitoring System
+# DashCop - A Near Real-Time AI Traffic Monitoring System 👮‍♂️
 This is an imported repo of the original DashCop project, where I and 4 of my wondeful univesity colleagues worked together in collaboration with the brilliant mentors at AWS Bahrain to develop this solution. By the grace of God Almighty, it won first place at the University of Bahrain Senior Project Fair. 
 
 ## Architecture
